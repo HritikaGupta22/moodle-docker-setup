@@ -7,7 +7,7 @@ This guide provides step-by-step instructions for setting up Moodle on localhost
 
 Ensure you have the following installed on your system:
 
-Docker
+[Docker](https://knowledgebase.aridhia.io/workspaces/analysing-data/virtual-machines/installing-software-on-virtual-machines/installing-docker-on-your-virtual-machine)
 
 Docker Compose (optional)
 
