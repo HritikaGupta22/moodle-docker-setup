@@ -70,6 +70,7 @@ https://0.0.0.0/
 ```
 
 User Id : user
+
 Password : bitnami
 
 **Conclusion**
