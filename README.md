@@ -69,6 +69,9 @@ For HTTPS:
 https://0.0.0.0/
 ```
 
+User Id : user
+Password : bitnami
+
 **Conclusion**
 
 You have successfully installed Moodle on localhost using Docker. You can now proceed with Moodle configuration and customization as needed.
