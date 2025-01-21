@@ -60,11 +60,14 @@ docker run -d \
 
 Once the containers are running, access Moodle via your web browser:
 
-'''
+```
 http://0.0.0.0/
-''''
+```
 
-
+For HTTPS:
+```
+https://0.0.0.0/
+```
 
 **Conclusion**
 
